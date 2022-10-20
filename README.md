@@ -15,11 +15,11 @@ The porjects were implemented in python 3.8, using Jupyter Notebook.
 ---
 
 ## Projects
-1. Web Scrapping
+1. Web Scrapping - practice basic web scraping as well as data and basic text analysis with python.
 
-2. Document Classification
+2. Document Classification - practice text analysis and classification with python
 
-3. Twitter Sentiment Classification - Final project based on the <a href="https://www.kaggle.com/kazanova/sentiment140">this<a> kaggle competition
+3. Twitter Sentiment Classification - Final project based on the <a href="https://www.kaggle.com/kazanova/sentiment140">this<a> kaggle competition. The goal of the project was to practice data collection from online resources, data pre-processing and analysis to derive conclusions from the collected data.
 
 ---
 
